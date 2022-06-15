@@ -1,6 +1,3 @@
-# projetos
-Projeto destinado a um trabalho final para a disciplina de Laboratório de Programação, cujo tema foi escolhido como Banco de Sangue, onde é possível fazer login e listar doadores, assim como fazer a busca de tais.
-
 # projects
 Project intended for a final work for the Programming Laboratory discipline, whose theme was chosen as Blood Bank, where it is possible to login and list donors, as well as to search for them.
 
